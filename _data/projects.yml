@@ -1,16 +1,17 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Rooster Teeth
+- project: Rooster Teeth FIRST - Xbox One UWP
+  role: Lead Developer &amp; Scrum Master
+  duration: Aug, 2016 &mdash; Nov, 2016
+  url: "https://www.microsoft.com/en-us/p/rooster-teeth-first/9nblggh43d8w"
+  description: <p>The Rooster Teeth FIRST app is available on Xbox One! Now FIRST members can watch all content from Rooster Teeth, Achievement Hunter, Funhaus, The Know, ScrewAttack, Game Attack, Cow Chop, and The Creatures – including live broadcasts – on a big ol’ TV, without any hassle.<ul><li>SXSW Innovation Award nominee - Visual Media Experience category</li><li>Appy Award Finalist - Entertainment | Movies/Television/Video category</li><li><b>Stevie Award Gold winner - Media & Entertainment - Product category</b></li><ul></p>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# SlingTV
+- project: SlingTV - Windows Desktop/Tablet UWP
+  role: Lead Developer &amp; Scrum Master
+  duration: Nov, 2016 &mdash; Feb, 2017
+  url: " https://www.microsoft.com/en-us/p/sling-tv/9nblggh4x7wp"
+  description: <p>Sling TV is everything you love about live TV minus everything you hate. Stream top live & on-demand entertainment — anytime, anywhere.</p>
+ 

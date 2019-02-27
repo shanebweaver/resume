@@ -1,19 +1,36 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# 
+- company: Microsoft
+  position: Software Engineer
+  duration: Feb, 2017 &mdash; Present
+  summary: <p>I am an App Ninja! Working with top ISVs and the Windows developer community, the App Ninjas solve the unsolvable.<br /><br />I focus on supporting the dev teams of Microsoft's top partners to enable innovative and magical solutions on the Windows platform. I also work closely with the open source dev community to understand common asks/issues and then ship solutions in the Windows Community Toolkit for iteration and long term support.<br /><br />Check me out on <a href="https://github.com/shweaver-MSFT">GitHub | shweaver-MSFT</a></p>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# 
+- company: L4 Digital
+  position: Senior Software Engineer
+  duration: Jan, 2016 &mdash; Feb, 2017
+  summary: <ul><li>Developed client application software for the Xbox One, Xbox 360, and Universal Windows Platform (UWP).</li><li>Conducted daily standup meetings and worked closely with Project Manager to groom and plan upcoming sprints.</li><li>Conducted daily code reviews to enforce code quality standards.</li><li>Served as company SME of Windows/Xbox UWA development.</li><li>Hosted regular monthly meetings to evangelize and educate peers on the Universal Windows Platform and other Microsoft technologies.</li><li>Traveled to customer sites for in-person release build handoffs and support.</li><li>Worked with QA department to automate and document processes to enable more rapid and efficient testing practices.</li><li>Technologies |​ HTML, JavaScript, CSS, LESS, TypeScript, WinJS, XboxJS, C#/XAML, Visual Studio, Jira, Zeplin, Git, Gerrit, Stash, Fiddler, .NET, Jenkins, SourceTree</li></ul>
 
+# 
+- company: Microsoft
+  position: Xbox Live Development Support Engineer
+  duration: Jul, 2014  &mdash; Feb, 2016
+  summary: <ul><li>Provided developer support to 1st and 3rd party partners (Disney, Netflix, Hulu, etc.) developing media applications for the Xbox One and 360 consoles.</li><li>Provided developer support to 1st and 3rd party partners (EA, Ubisoft, Motiga, etc.) developing games for the Xbox One and 360 consoles.</li><li>Developed sample applications depicting proper coding implementation of commonly used features.</li><li>Wrote and maintained technical whitepapers describing Xbox One technical guidelines and standards.</li><li>Hosted monthly HackFest events at Microsoft and worked with partners in person on their Xbox applications, providing hands-on technical guidance and coding support.</li><li>Developed supplemental APIs for complex features on the Xbox, encapsulating best practices and allowing for modular implementation.</li><li>Technologies | WinJS, XboxJS, C#, C++, WinRT, .NET, Visual Studio, TFS, XAML, Fiddler, HTML, JavaScript, CSS, Windows Phone 7, Windows Store Apps (8, 8.1, 10)</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  # 
+- company: CNSI
+  position: Development Operations Engineer
+  duration: Oct, 2013  &mdash; July, 2014
+  summary: <ul><li>Lead a team of 4 to manage application and development operations for the Washington State Medicaid Billing System (ProviderOne).</li><li>Ensured compliance with HIPAA regulations for data retention, archival, and disposal.</li><li>Involved in weekly customer meetings to gather requirements and discuss change management and release.</li><li>Wrote and maintained Python web application to automate daily tasks into a common format and shared location.</li><li>Wrote and maintained Java based scheduled task program. Automated regular emails, database maintenance tasks, and external application monitoring and alerting.</li><li>Lead developer and maintainer on the WA State custom version of eCAMS HealthBeat; a Java based, automated framework to extract, analyze and report data from diverse business processes into a centralized enterprise service view of MMIS systems.</li><li>Technologies | Java, Python, Oracle, SVN, Sphinx reST, JBoss, jQuery, Jenkins, Graphite, Subversion Edge, Struts 2, Pyramid, SubstanceD, icinga, HighCharts, HighStock, Twitter Bootstrap, FullCalendar, HTML, JavaScript, CSS</li>
+
+# 
+- company: Washington State Air National Guard
+  position: Computer Systems Programmer (3D0X4)
+  duration: Oct, 2013  &mdash; Feb, 2016
+  summary: <ul><li>Developed and delivered training modules to Junior Programmers.</li><li>Subject Matter Expert (SME) and consultant for automation and reverse engineering related mission decisions.</li><li>Set up internal documentation web app to house training documentation.</li><li>Technologies | C#, .NET, SVN, Visual Studio, HTML, JavaScript, CSS</li></ul>
+
+# 
+- company: United States Air Force
+  position: Computer Systems Programmer (3D0X4)
+  duration: Sep, 2009  &mdash; Oct, 2013
+  summary: <ul><li>Lead developer for a Java, web-based registrar & student management system supporting over 100 military schools world-wide.</li><li>Wrote, tested, documented, and delivered code in a waterfall development environment.</li><li>Acted as primary customer liaison to gather and develop requirements.</li><li>Supervised and trained 2 Junior Programmers.</li><li>Reviewed and tested all code to be released and assisted other teams with bug fixes and features as needed.</li><li>Performed after-hours and weekend deployments.</li><li>Technologies | J2EE, Java 1.5 and 1.6, Oracle, C#, .NET, Turbine Velocity, Nagios, JCreator, Eclipse, Tomcat, Ant, SQL Developer, Putty, Subversion, Tortoise SVN, Visual Studio, FileZilla, and BugZilla, HTML, JavaScript, CSS</li></ul>
