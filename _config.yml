@@ -21,7 +21,7 @@ resume_contact_telephone:       "253.355.4790"
 resume_contact_address:         "Woodinville, WA"
 
 resume_header_contact_info:     "Woodinville, WA • 253.355.4790 • shanebweaver@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<ul>
                         <li>Award winning Windows 10 app developer with a focus on Media and Entertainment.</li>
@@ -51,13 +51,13 @@ resume_section_projects:        true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/shanebweaver"
-  # resume_twitter_url:           "http://twitter.com/jglovier"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
+  # resume_twitter_url:         ""
+  # resume_dribbble_url:        ""
+  # resume_facebook_url:        ""
   resume_linkedin_url:          "https://www.linkedin.com/in/shanebweaver"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://shanebweaver.github.io"
-  # resume_medium_url:            "https://medium.com/@jglovier"
+  # resume_instagram_url:       ""
+  resume_website_url:           "http://www.shanebweaver.com"
+  # resume_medium_url:          ""
 resume_print_social_links:      true
 
 # Design settings
