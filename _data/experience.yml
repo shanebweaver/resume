@@ -2,8 +2,14 @@
 # 
 - company: Microsoft
   position: Software Engineer
-  duration: Feb, 2017 &mdash; Present
-  summary: <p>I am an App Ninja! Working with top ISVs and the Windows developer community, the App Ninjas solve the unsolvable.<br /><br />I focus on supporting the dev teams of Microsoft's top partners to enable innovative and magical solutions on the Windows platform. I also work closely with the open source dev community to understand common asks/issues and then ship solutions in the Windows Community Toolkit for iteration and long term support.<br /><br />Check me out on <a href="https://github.com/shweaver-MSFT">GitHub | shweaver-MSFT</a></p>
+  duration: Nov, 2019 &mdash; Present
+  summary: <p>I am currently working as the lead dev and release master for the Microsoft Graph Toolkit open source project.<br /><br />Check us out on <a href="https://github.com/microsoftgraph/microsoft-graph-toolkit">GitHub | microsoftgraph/microsoft-graph-toolkit</a></p>
+
+# 
+- company: Microsoft
+  position: App Ninja
+  duration: Feb, 2017 &mdash; Nov 2019
+  summary: <p>Working with top ISVs and the Windows developer community, the App Ninjas solve the unsolvable.<br /><br />In this role I focused on supporting the dev teams of Microsoft's top partners to enable innovative and magical solutions on the Windows platform. I also worked closely with the open source dev community to understand common asks/issues and then ship solutions in the Windows Community Toolkit for iteration and long term support.<br /><br />Check me out on <a href="https://github.com/shweaver-MSFT">GitHub | shweaver-MSFT</a></p>
 
 # 
 - company: L4 Digital
