@@ -1,6 +1,6 @@
 # Site settings
 title: "Shane Weaver"
-description: "Software Engineer Extraordinaire"
+description: "Human Software Engineer"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Shane B. Weaver"
-resume_title:                   "Windows Developer Evangelist and App Ninja"
+resume_title:                   "Human Software Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "shanebweaver@gmail.com"
@@ -24,8 +24,9 @@ resume_header_contact_info:     "Woodinville, WA • 253.355.4790 • shanebweav
 display_header_contact_info:    "true"
 
 resume_header_intro: "<ul>
-                        <li>Award winning Windows 10 app developer with a focus on Media and Entertainment.</li>
-                        <li>9+ years of experience in software design, analysis, and full stack development using C#/XAML, Java, JavaScript/HTML, and open source web technologies.</li>
+                        <li>Developer lead for the [Microsoft Graph Toolkit](https://docs.microsoft.com/en-us/graph/toolkit/overview) open source project.</li>
+                        <li>Award winning Windows 10 app developer with expertise in 10 foot UX, VOD services, and DRM.</li>
+                        <li>Over 10 years of experience in software design, analysis, and full stack development using C#/XAML, JavaScript/HTML, and open source web technologies.</li>
                         <li>Team lead and Scrum Master experience, managing small to medium size dev/QA teams.</li>
                         <li>Extremely versatile. Experience in a variety of environments and languages in positions covering software engineering, product development, development operations, and developer support.</li>
                       </ul>"
