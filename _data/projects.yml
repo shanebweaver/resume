@@ -1,6 +1,13 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# Microsoft Graph Toolkit
+- project: Microsoft Graph Toolkit
+  role: Lead Developer &amp; Release Master
+  duration: Nov, 2019 &mdash; Present
+  url: "https://github.com/microsoftgraph/microsoft-graph-toolkit"
+  description: <p>The Microsoft Graph Toolkit is a collection of reusable, framework-agnostic web components and helpers for accessing and working with Microsoft Graph. The components are fully functional right of out of the box, with built in providers that authenticate with and fetch data from Microsoft Graph.</p>
+
 # Rooster Teeth
 - project: Rooster Teeth FIRST - Xbox One UWP
   role: Lead Developer &amp; Scrum Master
