@@ -24,7 +24,7 @@ resume_header_contact_info:     "Woodinville, WA • 253.355.4790 • shanebweav
 display_header_contact_info:    "true"
 
 resume_header_intro: "<ul>
-                        <li>Developer lead for the <a href="https://docs.microsoft.com/en-us/graph/toolkit/overview">Microsoft Graph Toolkit</a> open source project.</li>
+                        <li>Developer lead for the Microsoft Graph Toolkit open source project.</li>
                         <li>Award winning Windows 10 app developer with expertise in 10 foot UX, VOD services, and DRM.</li>
                         <li>Over 10 years of experience in software design, analysis, and full stack development using C#/XAML, JavaScript/HTML, and open source web technologies.</li>
                         <li>Team lead and Scrum Master experience, managing small to medium size dev/QA teams.</li>
