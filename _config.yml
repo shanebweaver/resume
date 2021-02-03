@@ -24,11 +24,11 @@ resume_header_contact_info:     "Woodinville, WA • 253.355.4790 • shanebweav
 display_header_contact_info:    "true"
 
 resume_header_intro: "<ul>
-                        <li>Developer lead for the Microsoft Graph Toolkit open source project.</li>
-                        <li>Award winning Windows 10 app developer with expertise in 10 foot UX, VOD services, and DRM.</li>
-                        <li>Over 10 years of experience in software design, analysis, and full stack development using C#/XAML, JavaScript/HTML, and open source web technologies.</li>
-                        <li>Team lead and Scrum Master experience, managing small to medium size dev/QA teams.</li>
-                        <li>Extremely versatile. Experience in a variety of environments and languages in positions covering software engineering, product development, development operations, and developer support.</li>
+                        <li>Active contributor to the Microsoft Graph Toolkit and Windows Community Toolkit open source projects.</li>
+                        <li>Award winning Windows 10 media app developer with expertise in 10 foot UX, VOD services, and DRM.</li>
+                        <li>Over 10 years of experience in software prototyping and full stack development in C#/XAML and JavaScript/HTML.</li>
+                        <li>Experienced team lead and scrum master leading small dev/QA teams.</li>
+                        <li>Extremely versatile. Experienced in a variety of roles covering software engineering, product development, development operations, and developer support.</li>
                       </ul>"
 
 # use "yes" to display the email contact button,
@@ -51,7 +51,7 @@ resume_section_projects:        true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/shanebweaver"
+  resume_github_url:            "https://github.com/shweaver-MSFT"
   # resume_twitter_url:         ""
   # resume_dribbble_url:        ""
   # resume_facebook_url:        ""
