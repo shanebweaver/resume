@@ -2,8 +2,14 @@
 # 
 - company: Microsoft
   position: Software Engineer
-  duration: Nov, 2019 &mdash; Present
-  summary: <p>I am currently working as the lead dev and release master for the Microsoft Graph Toolkit open source project.<br /><br />Check us out on <a href="https://github.com/microsoftgraph/microsoft-graph-toolkit">GitHub | microsoftgraph/microsoft-graph-toolkit</a></p>
+  duration: Oct, 2020 &mdash; Present
+  summary: <p>Currently working on creating open source data driven UX components, powered by the Microsoft Graph, to enable key scenarios with the dev community and Microsoft partners.<br /><br /><a href="https://github.com/microsoftgraph/microsoft-graph-toolkit">GitHub | microsoftgraph/microsoft-graph-toolkit</a><br/><a href="https://github.com/windows-toolkit/WindowsCommunityToolkit">GitHub | windows-toolkit/WindowsCommunityToolkit</a></p>
+
+# 
+- company: Microsoft
+  position: Software Engineer
+  duration: Nov, 2019 &mdash; Oct, 2020
+  summary: <p>Lead dev and release master for the Microsoft Graph Toolkit open source project.<br /><br /><a href="https://github.com/microsoftgraph/microsoft-graph-toolkit">GitHub | microsoftgraph/microsoft-graph-toolkit</a></p>
 
 # 
 - company: Microsoft
